@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aafreenm7/LeetCode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aafreenm7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aafreenm7/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aafreenm7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aafreenm7/LeetCode/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aafreenm7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
