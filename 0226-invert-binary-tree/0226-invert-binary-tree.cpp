@@ -16,9 +16,23 @@ public:
             return root;
             
         }
-        swap(root->left,root->right);
-        invertTree(root->left);
-        invertTree(root->right);
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode *nn=q.front();
+            q.pop();
+            //swap
+            TreeNode *temp=nn->left;
+            nn->left=nn->right;
+            nn->right=temp;
+            //Add children to queue
+            if(nn->left!=NULL){
+                q.push(nn->left);
+            }
+            if(nn->right!=NULL){
+                q.push(nn->right);
+            }
+        }
         return root;
     }
 };
