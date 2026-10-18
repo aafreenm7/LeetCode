@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aafreenm7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/aafreenm7/LeetCode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/aafreenm7/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aafreenm7/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aafreenm7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/aafreenm7/LeetCode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aafreenm7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aafreenm7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
